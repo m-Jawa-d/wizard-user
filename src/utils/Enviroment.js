@@ -1,6 +1,6 @@
 let Environment = {
-  // api_url: "http://192.168.20.70:8080",
-  api_url: "http://ec2-54-191-120-95.us-west-2.compute.amazonaws.com:8080",
+  api_url: "https://wizardapi.quecko.com",
+  // api_url: "http://ec2-54-191-120-95.us-west-2.compute.amazonaws.com:8080",
   // marketPlaceContract: "0x161975F0f31e935eD9f622A43cdcbF7b0FC216a3",
   marketPlaceContract: "0x8b9cBdbca6d6779dCd17c5B06Bf3362cc8CB0DA2",
   // launchPadContract: "0xFc1F0Be40C59aBa1124532f4ceDE63Ff5CB84f1F",
